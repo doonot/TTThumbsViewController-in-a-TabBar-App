@@ -1,0 +1,2453 @@
+TThree20PhotoGallery
+v7
+r0
+t316779924.746230
+cCheck dependencies
+cProcessInfoPlistFile "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Info.plist" Three20PhotoGallery-Info.plist
+cCpResource build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20.bundle ../facebook-three20-b253114/src/Three20.bundle
+cCompileXIB "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/MainWindow.xib"
+cCompileXIB "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.xib"
+cProcessPCH /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch.gch Three20PhotoGallery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery.momd" "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery.xcdatamodeld"
+cCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/main.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/Three20PhotoGalleryAppDelegate.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/PhotoSource.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/PhotoSource.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/Photo.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Photo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/AlbumController.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/SecondViewController.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/SecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/FirstViewController.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/ThirdViewController.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery" normal i386
+cGenerateDSYMFile "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app.dSYM" "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery"
+cTouch "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D24A8090000000000000110
+t1294247945
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/TargetConditionals.h
+c000000004CB3FA0800000000000031E9
+t1286863368
+s12777
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/../facebook-three20-b253114/src/Three20.bundle
+c000000004CD6D34E00000000000001DC
+t1289147214
+s476
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.h
+c000000004D303E050000000000000236
+t1295007237
+s566
+i<Foundation/Foundation.h>
+i<Three20/Three20.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m
+c000000004D309F8600000000000016BE
+t1295032198
+s5822
+i"AlbumController.h"
+i"PhotoSource.h"
+i"Photo.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/FirstViewController.h
+c000000004D30490800000000000002B4
+t1295010056
+s692
+i<UIKit/UIKit.h>
+i"Three20PhotoGalleryAppDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/FirstViewController.m
+c000000004D308B9A000000000000084D
+t1295027098
+s2125
+i"FirstViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Photo.h
+c000000004D29D1FF000000000000025B
+t1294586367
+s603
+i<Foundation/Foundation.h>
+i<Three20/Three20.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Photo.m
+c000000004D29D52B00000000000004F7
+t1294587179
+s1271
+i"Photo.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/PhotoSource.h
+c000000004D29E3B200000000000002BF
+t1294590898
+s703
+i<Foundation/Foundation.h>
+i<Three20/Three20.h>
+i<Three20/Three20+Additions.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/PhotoSource.m
+c000000004D29E4090000000000000C35
+t1294590985
+s3125
+i"PhotoSource.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/SecondViewController.h
+c000000004D2B3A8400000000000002B4
+t1294678660
+s692
+i<UIKit/UIKit.h>
+i"Three20PhotoGalleryAppDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/SecondViewController.m
+c000000004D308BA10000000000000885
+t1295027105
+s2181
+i"SecondViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.h
+c000000004CD6D34E0000000000000058
+t1289147214
+s88
+i<Three20/Three20.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m
+c000000004CD6D34E000000000000023C
+t1289147214
+s572
+i"TabBarController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.h
+c000000004D31737D00000000000000FA
+t1295086461
+s250
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.m
+c000000004D31737D00000000000005BF
+t1295086461
+s1471
+i"ThirdViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.xib
+c000000004D3175270000000000004A19
+t1295086887
+s18969
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.h
+c000000004D31758300000000000006C6
+t1295086979
+s1734
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"AlbumController.h"
+i"SecondViewController.h"
+i"FirstViewController.h"
+i"ThirdViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m
+c000000004D31760D0000000000000F85
+t1295087117
+s3973
+i"Three20PhotoGalleryAppDelegate.h"
+i"AlbumController.h"
+i"SecondViewController.h"
+i"FirstViewController.h"
+i"ThirdViewController.h"
+i<Three20/Three20.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/MainView.xib
+c000000004D2A02A3000000000000183A
+t1294598819
+s6202
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/MainWindow.xib
+c000000004D2B3FE7000000000000485A
+t1294680039
+s18522
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery.xcdatamodeld
+c000000004D297DD60000000000000088
+t1294564822
+s136
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery_Prefix.pch
+c000000004D297DD6000000000000017A
+t1294564822
+s378
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app
+t1295087124
+s306
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app.dSYM
+t1295087124
+s102
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Info.plist
+t1294680117
+s645
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/MainView.nib
+t1294598789
+s1396
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/MainWindow.nib
+t1294680117
+s1512
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/PkgInfo
+t1294680117
+s8
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/ThirdViewController.nib
+t1295086934
+s3074
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20.bundle
+t1294678905
+s476
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery
+t1295087124
+s1732072
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery.momd
+t1294678906
+s136
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/libThree20.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/AlbumController.o
+t1295086935
+s65692
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/FirstViewController.o
+t1295086982
+s61304
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/Photo.o
+t1295086935
+s16960
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/PhotoSource.o
+t1295086935
+s24580
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/SecondViewController.o
+t1295086981
+s61428
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/TabBarController.o
+t1294602314
+s40948
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/ThirdViewController.o
+t1295086935
+s37724
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/Three20PhotoGallery.LinkFileList
+c000000004D31755500000000000005EB
+t1295086933
+s1515
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/Three20PhotoGalleryAppDelegate.o
+t1295087123
+s68764
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/main.o
+t1294678906
+s6368
+
+N/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/main.m
+c000000004D2B3A7B00000000000001D0
+t1294678651
+s464
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20-Xcode3.2.2.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20-Xcode3.2.5.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20.a
+c000000004D3175550000000000001068
+t1295086933
+s4200
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20Core.a
+c000000004D2B3B630000000000033630
+t1294678883
+s210480
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20Network.a
+c000000004D31753E0000000000051DE8
+t1295086910
+s335336
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20Style.a
+c000000004D3175450000000000128378
+t1295086917
+s1213304
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20UI-Xcode3.2.2.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20UI.a
+c000000004D31755400000000005861D8
+t1295086932
+s5792216
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20UICommon.a
+c000000004D3175460000000000037708
+t1295086918
+s227080
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a
+c000000004D3175480000000000083078
+t1295086920
+s536696
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20/Three20+Additions.h
+c000000004D30483A000000000000044B
+t1295009850
+s1099
+i"Three20/Three20.h"
+i"Three20Core/Three20Core+Additions.h"
+i"Three20Style/Three20Style+Additions.h"
+i"Three20UICommon/Three20UICommon+Additions.h"
+i"Three20UINavigator/Three20UINavigator+Additions.h"
+i"Three20UI/Three20UI+Additions.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20/Three20.h
+c000000004D30483A0000000000000412
+t1295009850
+s1042
+i"Three20Core/Three20Core.h"
+i"Three20Network/Three20Network.h"
+i"Three20Style/Three20Style.h"
+i"Three20UICommon/Three20UICommon.h"
+i"Three20UINavigator/Three20UINavigator.h"
+i"Three20UI/Three20UI.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/NSArrayAdditions.h
+c000000004D30480A0000000000000788
+t1295009802
+s1928
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/NSDataAdditions.h
+c000000004D30480A00000000000003CA
+t1295009802
+s970
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/NSDateAdditions.h
+c000000004D30480A000000000000094F
+t1295009802
+s2383
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/NSMutableArrayAdditions.h
+c000000004D30480A000000000000031D
+t1295009802
+s797
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/NSMutableDictionaryAdditions.h
+c000000004D30480A0000000000000331
+t1295009802
+s817
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/NSObjectAdditions.h
+c000000004D30480A0000000000000574
+t1295009802
+s1396
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/NSStringAdditions.h
+c000000004D30480A0000000000000DDB
+t1295009802
+s3547
+i<Foundation/Foundation.h>
+i"Three20Core/TTCorePreprocessorMacros.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/TTCorePreprocessorMacros.h
+c000000004D30480A0000000000000836
+t1295009802
+s2102
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/TTDebug.h
+c000000004D30480A0000000000000EBD
+t1295009802
+s3773
+i<TargetConditionals.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/TTEntityTables.h
+c000000004D30480A00000000000004E0
+t1295009802
+s1248
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/TTGlobalCore.h
+c000000004D30480A00000000000005E6
+t1295009802
+s1510
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/TTGlobalCoreLocale.h
+c000000004D30480A000000000000056D
+t1295009802
+s1389
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/TTGlobalCorePaths.h
+c000000004D30480A00000000000005D7
+t1295009802
+s1495
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/TTGlobalCoreRects.h
+c000000004D30480A0000000000000520
+t1295009802
+s1312
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/TTMarkupStripper.h
+c000000004D30480A00000000000003CB
+t1295009802
+s971
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/Three20Core+Additions.h
+c000000004D30480A00000000000003B8
+t1295009802
+s952
+i"Three20Core/Three20Core.h"
+i"Three20Core/NSArrayAdditions.h"
+i"Three20Core/NSDataAdditions.h"
+i"Three20Core/NSDateAdditions.h"
+i"Three20Core/NSMutableArrayAdditions.h"
+i"Three20Core/NSMutableDictionaryAdditions.h"
+i"Three20Core/NSObjectAdditions.h"
+i"Three20Core/NSStringAdditions.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Core/Three20Core.h
+c000000004D30480A00000000000003DD
+t1295009802
+s989
+i"Three20Core/TTCorePreprocessorMacros.h"
+i"Three20Core/TTGlobalCore.h"
+i"Three20Core/TTGlobalCoreLocale.h"
+i"Three20Core/TTGlobalCorePaths.h"
+i"Three20Core/TTGlobalCoreRects.h"
+i"Three20Core/TTDebug.h"
+i"Three20Core/TTEntityTables.h"
+i"Three20Core/TTMarkupStripper.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTErrorCodes.h
+c000000004D30480D00000000000002BB
+t1295009805
+s699
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTGlobalNetwork.h
+c000000004D30480D000000000000057D
+t1295009805
+s1405
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTModel.h
+c000000004D30480D0000000000000CEB
+t1295009805
+s3307
+i<Foundation/Foundation.h>
+i"Three20Network/TTURLRequestCachePolicy.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTModelDelegate.h
+c000000004D30480D00000000000008A8
+t1295009805
+s2216
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTURLCache.h
+c000000004D30480D00000000000018EA
+t1295009805
+s6378
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTURLDataResponse.h
+c000000004D30480D0000000000000363
+t1295009805
+s867
+i"Three20Network/TTURLResponse.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTURLImageResponse.h
+c000000004D30480D0000000000000434
+t1295009805
+s1076
+i"Three20Network/TTURLResponse.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTURLRequest.h
+c000000004D30480D0000000000001A70
+t1295009805
+s6768
+i<Foundation/Foundation.h>
+i"Three20Network/TTURLRequestCachePolicy.h"
+i"Three20Core/TTCorePreprocessorMacros.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTURLRequestCachePolicy.h
+c000000004D30480D00000000000004CF
+t1295009805
+s1231
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTURLRequestDelegate.h
+c000000004D30480D00000000000006C3
+t1295009805
+s1731
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTURLRequestModel.h
+c000000004D30480D00000000000006A1
+t1295009805
+s1697
+i"Three20Network/TTModel.h"
+i"Three20Network/TTURLRequestDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTURLRequestQueue.h
+c000000004D30480D0000000000000DAC
+t1295009805
+s3500
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTURLResponse.h
+c000000004D30480D000000000000064F
+t1295009805
+s1615
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/TTUserInfo.h
+c000000004D30480D0000000000000673
+t1295009805
+s1651
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Network/Three20Network.h
+c000000004D30480D000000000000058B
+t1295009805
+s1419
+i"Three20Core/Three20Core.h"
+i"Three20Network/TTGlobalNetwork.h"
+i"Three20Network/TTURLRequestCachePolicy.h"
+i"Three20Network/TTErrorCodes.h"
+i"Three20Network/TTModel.h"
+i"Three20Network/TTModelDelegate.h"
+i"Three20Network/TTURLRequestModel.h"
+i"Three20Network/TTURLRequest.h"
+i"Three20Network/TTURLRequestDelegate.h"
+i"Three20Network/TTURLResponse.h"
+i"Three20Network/TTURLDataResponse.h"
+i"Three20Network/TTURLImageResponse.h"
+i"Three20Network/TTUserInfo.h"
+i"Three20Network/TTURLRequestQueue.h"
+i"Three20Network/TTURLCache.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTBevelBorderStyle.h
+c000000004D30481000000000000004FD
+t1295009808
+s1277
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTBlendStyle.h
+c000000004D3048100000000000000340
+t1295009808
+s832
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTBoxStyle.h
+c000000004D30481000000000000005FD
+t1295009808
+s1533
+i"Three20Style/TTStyle.h"
+i"Three20Style/TTPosition.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTContentStyle.h
+c000000004D30481000000000000002DB
+t1295009808
+s731
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTDefaultStyleSheet+DragRefreshHeader.h
+c000000004D30481100000000000004C3
+t1295009809
+s1219
+i"Three20Style/TTDefaultStyleSheet.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTDefaultStyleSheet.h
+c000000004D3048100000000000000FD7
+t1295009808
+s4055
+i"Three20Style/TTStyleSheet.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTFlowLayout.h
+c000000004D3048100000000000000324
+t1295009808
+s804
+i"Three20Style/TTLayout.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTFourBorderStyle.h
+c000000004D3048100000000000000630
+t1295009808
+s1584
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTGlobalStyle.h
+c000000004D3048100000000000000774
+t1295009808
+s1908
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTGridLayout.h
+c000000004D3048100000000000000373
+t1295009808
+s883
+i"Three20Style/TTLayout.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTHighlightBorderStyle.h
+c000000004D3048100000000000000442
+t1295009808
+s1090
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTImageStyle.h
+c000000004D30481000000000000007A7
+t1295009808
+s1959
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTInnerShadowStyle.h
+c000000004D30481000000000000002B8
+t1295009808
+s696
+i"Three20Style/TTShadowStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTInsetStyle.h
+c000000004D3048100000000000000337
+t1295009808
+s823
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTLayout.h
+c000000004D30481000000000000002F8
+t1295009808
+s760
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTLinearGradientBorderStyle.h
+c000000004D30481000000000000005DC
+t1295009808
+s1500
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTLinearGradientFillStyle.h
+c000000004D30481000000000000003D5
+t1295009808
+s981
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTMaskStyle.h
+c000000004D304810000000000000032D
+t1295009808
+s813
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTPartStyle.h
+c000000004D30481000000000000003CD
+t1295009808
+s973
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTPosition.h
+c000000004D30481000000000000002CA
+t1295009808
+s714
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTRectangleShape.h
+c000000004D30481000000000000002C8
+t1295009808
+s712
+i"Three20Style/TTShape.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTReflectiveFillStyle.h
+c000000004D3048100000000000000435
+t1295009808
+s1077
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTRoundedLeftArrowShape.h
+c000000004D304810000000000000032E
+t1295009808
+s814
+i"Three20Style/TTShape.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTRoundedRectangleShape.h
+c000000004D30481000000000000004DD
+t1295009808
+s1245
+i"Three20Style/TTShape.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTRoundedRightArrowShape.h
+c000000004D3048100000000000000330
+t1295009808
+s816
+i"Three20Style/TTShape.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTShadowStyle.h
+c000000004D3048100000000000000402
+t1295009808
+s1026
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTShape.h
+c000000004D30481000000000000004D8
+t1295009808
+s1240
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTShapeStyle.h
+c000000004D304810000000000000038A
+t1295009808
+s906
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTSolidBorderStyle.h
+c000000004D3048100000000000000399
+t1295009808
+s921
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTSolidFillStyle.h
+c000000004D304810000000000000033B
+t1295009808
+s827
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTSpeechBubbleShape.h
+c000000004D304811000000000000046A
+t1295009809
+s1130
+i"Three20Style/TTShape.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyle.h
+c000000004D3048110000000000000474
+t1295009809
+s1140
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyleContext.h
+c000000004D30481100000000000004BA
+t1295009809
+s1210
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyleDelegate.h
+c000000004D304811000000000000039D
+t1295009809
+s925
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyleSheet.h
+c000000004D30481100000000000003E3
+t1295009809
+s995
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledBlock.h
+c000000004D30481100000000000002B7
+t1295009809
+s695
+i"Three20Style/TTStyledElement.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledBoldNode.h
+c000000004D30481100000000000002B8
+t1295009809
+s696
+i"Three20Style/TTStyledInline.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledBoxFrame.h
+c000000004D3048110000000000000437
+t1295009809
+s1079
+i"Three20Style/TTStyledFrame.h"
+i"Three20Style/TTStyleDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledButtonNode.h
+c000000004D304811000000000000042F
+t1295009809
+s1071
+i"Three20Style/TTStyledInlineBlock.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledElement.h
+c000000004D3048110000000000000515
+t1295009809
+s1301
+i"Three20Style/TTStyledNode.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledFrame.h
+c000000004D30481100000000000005E0
+t1295009809
+s1504
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledImageFrame.h
+c000000004D304811000000000000046E
+t1295009809
+s1134
+i"Three20Style/TTStyledFrame.h"
+i"Three20Style/TTStyleDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledImageNode.h
+c000000004D304811000000000000043F
+t1295009809
+s1087
+i"Three20Style/TTStyledElement.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledInline.h
+c000000004D30481100000000000002B8
+t1295009809
+s696
+i"Three20Style/TTStyledElement.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledInlineBlock.h
+c000000004D30481100000000000002BD
+t1295009809
+s701
+i"Three20Style/TTStyledElement.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledInlineFrame.h
+c000000004D30481100000000000003F3
+t1295009809
+s1011
+i"Three20Style/TTStyledBoxFrame.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledItalicNode.h
+c000000004D30481100000000000002BA
+t1295009809
+s698
+i"Three20Style/TTStyledInline.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledLineBreakNode.h
+c000000004D30481100000000000002BB
+t1295009809
+s699
+i"Three20Style/TTStyledBlock.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledLinkNode.h
+c000000004D3048110000000000000423
+t1295009809
+s1059
+i"Three20Style/TTStyledInline.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledNode.h
+c000000004D304811000000000000047B
+t1295009809
+s1147
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledText.h
+c000000004D3048110000000000000EFB
+t1295009809
+s3835
+i<UIKit/UIKit.h>
+i"Three20Network/TTURLRequestDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledTextDelegate.h
+c000000004D3048110000000000000314
+t1295009809
+s788
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledTextFrame.h
+c000000004D30481100000000000004D5
+t1295009809
+s1237
+i"Three20Style/TTStyledFrame.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledTextNode.h
+c000000004D304811000000000000037F
+t1295009809
+s895
+i"Three20Style/TTStyledNode.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTStyledTextParser.h
+c000000004D304811000000000000055F
+t1295009809
+s1375
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/TTTextStyle.h
+c000000004D3048110000000000000B13
+t1295009809
+s2835
+i"Three20Style/TTStyle.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/Three20Style+Additions.h
+c000000004D304811000000000000030E
+t1295009809
+s782
+i"Three20Style/Three20Style.h"
+i"Three20Style/UIColorAdditions.h"
+i"Three20Style/UIFontAdditions.h"
+i"Three20Style/UIImageAdditions.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/Three20Style.h
+c000000004D3048110000000000000C09
+t1295009809
+s3081
+i"Three20Core/Three20Core.h"
+i"Three20Network/Three20Network.h"
+i"Three20Style/TTGlobalStyle.h"
+i"Three20Style/TTPosition.h"
+i"Three20Style/TTDefaultStyleSheet.h"
+i"Three20Style/TTDefaultStyleSheet+DragRefreshHeader.h"
+i"Three20Style/TTLayout.h"
+i"Three20Style/TTFlowLayout.h"
+i"Three20Style/TTGridLayout.h"
+i"Three20Style/TTShape.h"
+i"Three20Style/TTRectangleShape.h"
+i"Three20Style/TTRoundedRectangleShape.h"
+i"Three20Style/TTRoundedRightArrowShape.h"
+i"Three20Style/TTRoundedLeftArrowShape.h"
+i"Three20Style/TTSpeechBubbleShape.h"
+i"Three20Style/TTStyle.h"
+i"Three20Style/TTStyleDelegate.h"
+i"Three20Style/TTStyleContext.h"
+i"Three20Style/TTContentStyle.h"
+i"Three20Style/TTPartStyle.h"
+i"Three20Style/TTShapeStyle.h"
+i"Three20Style/TTInsetStyle.h"
+i"Three20Style/TTBoxStyle.h"
+i"Three20Style/TTTextStyle.h"
+i"Three20Style/TTImageStyle.h"
+i"Three20Style/TTMaskStyle.h"
+i"Three20Style/TTBlendStyle.h"
+i"Three20Style/TTSolidFillStyle.h"
+i"Three20Style/TTLinearGradientFillStyle.h"
+i"Three20Style/TTReflectiveFillStyle.h"
+i"Three20Style/TTShadowStyle.h"
+i"Three20Style/TTInnerShadowStyle.h"
+i"Three20Style/TTSolidBorderStyle.h"
+i"Three20Style/TTHighlightBorderStyle.h"
+i"Three20Style/TTFourBorderStyle.h"
+i"Three20Style/TTBevelBorderStyle.h"
+i"Three20Style/TTLinearGradientBorderStyle.h"
+i"Three20Style/TTStyledText.h"
+i"Three20Style/TTStyledTextDelegate.h"
+i"Three20Style/TTStyledNode.h"
+i"Three20Style/TTStyledTextNode.h"
+i"Three20Style/TTStyledElement.h"
+i"Three20Style/TTStyledBlock.h"
+i"Three20Style/TTStyledInline.h"
+i"Three20Style/TTStyledInlineBlock.h"
+i"Three20Style/TTStyledBoldNode.h"
+i"Three20Style/TTStyledItalicNode.h"
+i"Three20Style/TTStyledLinkNode.h"
+i"Three20Style/TTStyledButtonNode.h"
+i"Three20Style/TTStyledImageNode.h"
+i"Three20Style/TTStyledLineBreakNode.h"
+i"Three20Style/TTStyledFrame.h"
+i"Three20Style/TTStyledBoxFrame.h"
+i"Three20Style/TTStyledInlineFrame.h"
+i"Three20Style/TTStyledTextFrame.h"
+i"Three20Style/TTStyledImageFrame.h"
+i"Three20Style/TTStyledTextParser.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/UIColorAdditions.h
+c000000004D304811000000000000061E
+t1295009809
+s1566
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/UIFontAdditions.h
+c000000004D30481100000000000003D8
+t1295009809
+s984
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20Style/UIImageAdditions.h
+c000000004D304811000000000000054F
+t1295009809
+s1359
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTActionSheetController.h
+c000000004D3048240000000000000C84
+t1295009828
+s3204
+i"Three20UI/TTPopupViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTActionSheetControllerDelegate.h
+c000000004D3048240000000000000704
+t1295009828
+s1796
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTActivityLabel.h
+c000000004D3048240000000000000749
+t1295009828
+s1865
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTAlertViewController.h
+c000000004D3048240000000000000663
+t1295009828
+s1635
+i"Three20UI/TTPopupViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTAlertViewControllerDelegate.h
+c000000004D3048240000000000000394
+t1295009828
+s916
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTButton.h
+c000000004D3048240000000000000796
+t1295009828
+s1942
+i"Three20Style/TTStyleDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTButtonBar.h
+c000000004D30482400000000000003E5
+t1295009828
+s997
+i"Three20UI/TTView.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTErrorView.h
+c000000004D30482400000000000003FB
+t1295009828
+s1019
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTImageView.h
+c000000004D3048240000000000000B5C
+t1295009828
+s2908
+i"Three20UI/TTView.h"
+i"Three20Network/TTURLRequestDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTImageViewDelegate.h
+c000000004D30482400000000000004A4
+t1295009828
+s1188
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTLabel.h
+c000000004D3048240000000000000346
+t1295009828
+s838
+i"Three20UI/TTView.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTLauncherItem.h
+c000000004D30482400000000000005E5
+t1295009828
+s1509
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTLauncherView.h
+c000000004D3048240000000000000AEA
+t1295009828
+s2794
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTLauncherViewDelegate.h
+c000000004D30482400000000000004F0
+t1295009828
+s1264
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTLink.h
+c000000004D3048240000000000000460
+t1295009828
+s1120
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTListDataSource.h
+c000000004D30482400000000000003F3
+t1295009828
+s1011
+i"Three20UI/TTTableViewDataSource.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTMessageController.h
+c000000004D3048240000000000001B6F
+t1295009828
+s7023
+i"Three20UI/TTViewController.h"
+i"Three20UI/TTTextEditorDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTMessageControllerDelegate.h
+c000000004D304824000000000000081A
+t1295009828
+s2074
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTMessageField.h
+c000000004D304824000000000000058E
+t1295009828
+s1422
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTMessageRecipientField.h
+c000000004D30482400000000000003CA
+t1295009828
+s970
+i"Three20UI/TTMessageField.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTMessageSubjectField.h
+c000000004D304824000000000000037B
+t1295009828
+s891
+i"Three20UI/TTMessageTextField.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTMessageTextField.h
+c000000004D3048240000000000000331
+t1295009828
+s817
+i"Three20UI/TTMessageField.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTModelViewController.h
+c000000004D3048240000000000001712
+t1295009828
+s5906
+i"Three20UI/TTViewController.h"
+i"Three20Network/TTModelDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTNavigationController.h
+c000000004D304825000000000000047D
+t1295009829
+s1149
+i"Three20UINavigator/TTBaseNavigationController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTNavigator.h
+c000000004D3048250000000000000435
+t1295009829
+s1077
+i"Three20UINavigator/TTBaseNavigator.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTPageControl.h
+c000000004D3048240000000000000505
+t1295009828
+s1285
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTPhoto.h
+c000000004D3048240000000000000515
+t1295009828
+s1301
+i"Three20UI/TTPhotoVersion.h"
+i"Three20UINavigator/TTURLObject.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTPhotoSource.h
+c000000004D30482400000000000004F7
+t1295009828
+s1271
+i"Three20Network/TTModel.h"
+i"Three20UINavigator/TTURLObject.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTPhotoVersion.h
+c000000004D30482400000000000002EB
+t1295009828
+s747
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTPhotoView.h
+c000000004D3048240000000000000581
+t1295009828
+s1409
+i"Three20UI/TTImageView.h"
+i"Three20UI/TTPhotoVersion.h"
+i"Three20UI/TTImageViewDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTPhotoViewController.h
+c000000004D3048240000000000000C70
+t1295009828
+s3184
+i"Three20UI/TTModelViewController.h"
+i"Three20UI/TTScrollViewDelegate.h"
+i"Three20UI/TTScrollViewDataSource.h"
+i"Three20UI/TTThumbsViewControllerDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTPickerTextField.h
+c000000004D3048240000000000000533
+t1295009828
+s1331
+i"Three20UI/TTSearchTextField.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTPickerTextFieldDelegate.h
+c000000004D30482400000000000003DE
+t1295009828
+s990
+i"Three20UI/TTSearchTextFieldDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTPopupViewController.h
+c000000004D3048240000000000000513
+t1295009828
+s1299
+i"Three20UI/TTModelViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTPostController.h
+c000000004D3048240000000000000955
+t1295009828
+s2389
+i"Three20UI/TTPopupViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTPostControllerDelegate.h
+c000000004D30482400000000000005F1
+t1295009828
+s1521
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTRecursiveProgress.h
+c000000004D3048240000000000000E79
+t1295009828
+s3705
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTScrollView.h
+c000000004D304824000000000000178C
+t1295009828
+s6028
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTScrollViewDataSource.h
+c000000004D304824000000000000058A
+t1295009828
+s1418
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTScrollViewDelegate.h
+c000000004D30482400000000000007A7
+t1295009828
+s1959
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTSearchBar.h
+c000000004D304824000000000000085C
+t1295009828
+s2140
+i"Three20UI/TTView.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTSearchDisplayController.h
+c000000004D3048240000000000000637
+t1295009828
+s1591
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTSearchTextField.h
+c000000004D3048240000000000000703
+t1295009828
+s1795
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTSearchTextFieldDelegate.h
+c000000004D3048240000000000000341
+t1295009828
+s833
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTSearchlightLabel.h
+c000000004D3048240000000000000520
+t1295009828
+s1312
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTSectionedDataSource.h
+c000000004D3048240000000000000841
+t1295009828
+s2113
+i"Three20UI/TTTableViewDataSource.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTStyledTextLabel.h
+c000000004D30482400000000000008E4
+t1295009828
+s2276
+i"Three20Style/TTStyledTextDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTStyledTextTableCell.h
+c000000004D3048240000000000000331
+t1295009828
+s817
+i"Three20UI/TTTableViewCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTStyledTextTableItemCell.h
+c000000004D3048240000000000000341
+t1295009828
+s833
+i"Three20UI/TTTableLinkedItemCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTab.h
+c000000004D3048240000000000000374
+t1295009828
+s884
+i"Three20UI/TTButton.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTabBar.h
+c000000004D30482400000000000005B2
+t1295009828
+s1458
+i"Three20UI/TTView.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTabDelegate.h
+c000000004D30482400000000000002FA
+t1295009828
+s762
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTabGrid.h
+c000000004D30482400000000000002EC
+t1295009828
+s748
+i"Three20UI/TTTabBar.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTabItem.h
+c000000004D3048240000000000000409
+t1295009828
+s1033
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTabStrip.h
+c000000004D3048250000000000000301
+t1295009829
+s769
+i"Three20UI/TTTabBar.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableActivityItem.h
+c000000004D3048240000000000000319
+t1295009828
+s793
+i"Three20UI/TTTableItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableActivityItemCell.h
+c000000004D3048240000000000000385
+t1295009828
+s901
+i"Three20UI/TTTableViewCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableButton.h
+c000000004D30482400000000000002B1
+t1295009828
+s689
+i"Three20UI/TTTableTextItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableCaptionItem.h
+c000000004D3048240000000000000410
+t1295009828
+s1040
+i"Three20UI/TTTableTextItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableCaptionItemCell.h
+c000000004D30482400000000000002FF
+t1295009828
+s767
+i"Three20UI/TTTableLinkedItemCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableControlCell.h
+c000000004D304824000000000000039C
+t1295009828
+s924
+i"Three20UI/TTTableViewCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableControlItem.h
+c000000004D3048240000000000000392
+t1295009828
+s914
+i"Three20UI/TTTableItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableFlushViewCell.h
+c000000004D304824000000000000038D
+t1295009828
+s909
+i"Three20UI/TTTableViewCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableGrayTextItem.h
+c000000004D30482400000000000002B7
+t1295009828
+s695
+i"Three20UI/TTTableTextItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableHeaderView.h
+c000000004D30482400000000000002E2
+t1295009828
+s738
+i"Three20UI/TTView.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableImageItem.h
+c000000004D3048240000000000000564
+t1295009828
+s1380
+i"Three20UI/TTTableTextItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableImageItemCell.h
+c000000004D3048240000000000000338
+t1295009828
+s824
+i"Three20UI/TTTableTextItemCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableItem.h
+c000000004D3048240000000000000302
+t1295009828
+s770
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableLink.h
+c000000004D30482400000000000002AF
+t1295009828
+s687
+i"Three20UI/TTTableTextItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableLinkedItem.h
+c000000004D3048240000000000000442
+t1295009828
+s1090
+i"Three20UI/TTTableItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableLinkedItemCell.h
+c000000004D30482400000000000002F5
+t1295009828
+s757
+i"Three20UI/TTTableViewCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableLongTextItem.h
+c000000004D30482400000000000002B7
+t1295009828
+s695
+i"Three20UI/TTTableTextItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableMessageItem.h
+c000000004D3048240000000000000518
+t1295009828
+s1304
+i"Three20UI/TTTableTextItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableMessageItemCell.h
+c000000004D304824000000000000044A
+t1295009828
+s1098
+i"Three20UI/TTTableLinkedItemCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableMoreButton.h
+c000000004D304824000000000000036D
+t1295009828
+s877
+i"Three20UI/TTTableSubtitleItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableMoreButtonCell.h
+c000000004D30482400000000000003D1
+t1295009828
+s977
+i"Three20UI/TTTableSubtitleItemCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableRightCaptionItem.h
+c000000004D30482400000000000002C1
+t1295009828
+s705
+i"Three20UI/TTTableCaptionItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableRightCaptionItemCell.h
+c000000004D3048240000000000000304
+t1295009828
+s772
+i"Three20UI/TTTableLinkedItemCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableRightImageItem.h
+c000000004D30482400000000000002BB
+t1295009828
+s699
+i"Three20UI/TTTableImageItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableStyledTextItem.h
+c000000004D3048240000000000000482
+t1295009828
+s1154
+i"Three20UI/TTTableLinkedItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableSubtextItem.h
+c000000004D30482400000000000002BC
+t1295009828
+s700
+i"Three20UI/TTTableCaptionItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableSubtextItemCell.h
+c000000004D30482400000000000002FF
+t1295009828
+s767
+i"Three20UI/TTTableLinkedItemCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableSubtitleItem.h
+c000000004D30482400000000000005F5
+t1295009828
+s1525
+i"Three20UI/TTTableTextItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableSubtitleItemCell.h
+c000000004D3048240000000000000385
+t1295009828
+s901
+i"Three20UI/TTTableLinkedItemCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableSummaryItem.h
+c000000004D30482400000000000002B6
+t1295009828
+s694
+i"Three20UI/TTTableTextItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableTextItem.h
+c000000004D3048240000000000000406
+t1295009828
+s1030
+i"Three20UI/TTTableLinkedItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableTextItemCell.h
+c000000004D30482400000000000002C3
+t1295009828
+s707
+i"Three20UI/TTTableLinkedItemCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableView.h
+c000000004D30482400000000000006A2
+t1295009828
+s1698
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableViewCell.h
+c000000004D304824000000000000076F
+t1295009828
+s1903
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableViewController.h
+c000000004D3048240000000000001044
+t1295009828
+s4164
+i"Three20UI/TTModelViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableViewDataSource.h
+c000000004D3048240000000000000B6C
+t1295009828
+s2924
+i<UIKit/UIKit.h>
+i"Three20Network/TTModel.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableViewDelegate.h
+c000000004D3048240000000000000710
+t1295009828
+s1808
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableViewDragRefreshDelegate.h
+c000000004D30482400000000000006BA
+t1295009828
+s1722
+i"Three20UI/TTTableViewVarHeightDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableViewGroupedVarHeightDelegate.h
+c000000004D304824000000000000033F
+t1295009828
+s831
+i"Three20UI/TTTableViewVarHeightDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableViewItem.h
+c000000004D3048240000000000000371
+t1295009828
+s881
+i"Three20UI/TTTableItem.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableViewPlainDelegate.h
+c000000004D304824000000000000030D
+t1295009828
+s781
+i"Three20UI/TTTableViewDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableViewPlainVarHeightDelegate.h
+c000000004D30482400000000000002E5
+t1295009828
+s741
+i"Three20UI/TTTableViewVarHeightDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTableViewVarHeightDelegate.h
+c000000004D304824000000000000031D
+t1295009828
+s797
+i"Three20UI/TTTableViewDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTextBarController.h
+c000000004D30482500000000000008AC
+t1295009829
+s2220
+i"Three20UI/TTPopupViewController.h"
+i"Three20UI/TTTextEditorDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTextBarDelegate.h
+c000000004D304825000000000000056B
+t1295009829
+s1387
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTextEditor.h
+c000000004D3048250000000000000691
+t1295009829
+s1681
+i"Three20UI/TTView.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTTextEditorDelegate.h
+c000000004D3048250000000000000534
+t1295009829
+s1332
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTThumbView.h
+c000000004D30482500000000000002D3
+t1295009829
+s723
+i"Three20UI/TTButton.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTThumbsDataSource.h
+c000000004D3048250000000000000486
+t1295009829
+s1158
+i"Three20UI/TTTableViewDataSource.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTThumbsTableViewCell.h
+c000000004D3048250000000000000521
+t1295009829
+s1313
+i"Three20UI/TTTableViewCell.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTThumbsTableViewCellDelegate.h
+c000000004D304825000000000000031B
+t1295009829
+s795
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTThumbsViewController.h
+c000000004D3048250000000000000578
+t1295009829
+s1400
+i"Three20UI/TTTableViewController.h"
+i"Three20UI/TTThumbsTableViewCellDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTThumbsViewControllerDelegate.h
+c000000004D3048250000000000000505
+t1295009829
+s1285
+i<Foundation/Foundation.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTView.h
+c000000004D304825000000000000041F
+t1295009829
+s1055
+i"Three20Style/TTStyleDelegate.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTViewController.h
+c000000004D30482500000000000006C8
+t1295009829
+s1736
+i"Three20UINavigator/TTNavigatorViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTWebController.h
+c000000004D304825000000000000091C
+t1295009829
+s2332
+i"Three20UI/TTModelViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/TTYouTubeView.h
+c000000004D30482500000000000003CF
+t1295009829
+s975
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/Three20UI+Additions.h
+c000000004D304824000000000000041D
+t1295009828
+s1053
+i"Three20UI/Three20UI.h"
+i"Three20UI/UIViewAdditions.h"
+i"Three20UI/UINavigationControllerAdditions.h"
+i"Three20UI/UINavigationControllerAdditions.h"
+i"Three20UI/UITabBarControllerAdditions.h"
+i"Three20UI/UITableViewAdditions.h"
+i"Three20UI/UIWebViewAdditions.h"
+i"Three20UI/UIToolbarAdditions.h"
+i"Three20UI/UINSStringAdditions.h"
+i"Three20UI/UINSObjectAdditions.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/Three20UI.h
+c000000004D3048240000000000001441
+t1295009828
+s5185
+i"Three20UI/TTNavigator.h"
+i"Three20UI/TTViewController.h"
+i"Three20UI/TTNavigationController.h"
+i"Three20UI/TTWebController.h"
+i"Three20UI/TTMessageController.h"
+i"Three20UI/TTMessageControllerDelegate.h"
+i"Three20UI/TTMessageField.h"
+i"Three20UI/TTMessageRecipientField.h"
+i"Three20UI/TTMessageTextField.h"
+i"Three20UI/TTMessageSubjectField.h"
+i"Three20UI/TTAlertViewController.h"
+i"Three20UI/TTAlertViewControllerDelegate.h"
+i"Three20UI/TTActionSheetController.h"
+i"Three20UI/TTActionSheetControllerDelegate.h"
+i"Three20UI/TTPostController.h"
+i"Three20UI/TTPostControllerDelegate.h"
+i"Three20UI/TTTextBarController.h"
+i"Three20UI/TTTextBarDelegate.h"
+i"Three20Network/TTURLCache.h"
+i"Three20UI/TTView.h"
+i"Three20UI/TTImageView.h"
+i"Three20UI/TTImageViewDelegate.h"
+i"Three20UI/TTYouTubeView.h"
+i"Three20UI/TTScrollView.h"
+i"Three20UI/TTScrollViewDelegate.h"
+i"Three20UI/TTScrollViewDataSource.h"
+i"Three20UI/TTLauncherView.h"
+i"Three20UI/TTLauncherViewDelegate.h"
+i"Three20UI/TTLauncherItem.h"
+i"Three20UI/TTLabel.h"
+i"Three20UI/TTStyledTextLabel.h"
+i"Three20UI/TTActivityLabel.h"
+i"Three20UI/TTSearchlightLabel.h"
+i"Three20UI/TTButton.h"
+i"Three20UI/TTLink.h"
+i"Three20UI/TTTabBar.h"
+i"Three20UI/TTTabDelegate.h"
+i"Three20UI/TTTabStrip.h"
+i"Three20UI/TTTabGrid.h"
+i"Three20UI/TTTab.h"
+i"Three20UI/TTTabItem.h"
+i"Three20UI/TTButtonBar.h"
+i"Three20UI/TTPageControl.h"
+i"Three20UI/TTTextEditor.h"
+i"Three20UI/TTTextEditorDelegate.h"
+i"Three20UI/TTSearchTextField.h"
+i"Three20UI/TTSearchTextFieldDelegate.h"
+i"Three20UI/TTPickerTextField.h"
+i"Three20UI/TTPickerTextFieldDelegate.h"
+i"Three20UI/TTSearchBar.h"
+i"Three20UI/TTTableViewController.h"
+i"Three20UI/TTSearchDisplayController.h"
+i"Three20UI/TTTableView.h"
+i"Three20UI/TTTableViewDelegate.h"
+i"Three20UI/TTTableViewVarHeightDelegate.h"
+i"Three20UI/TTTableViewGroupedVarHeightDelegate.h"
+i"Three20UI/TTTableViewPlainDelegate.h"
+i"Three20UI/TTTableViewPlainVarHeightDelegate.h"
+i"Three20UI/TTTableViewDragRefreshDelegate.h"
+i"Three20UI/TTListDataSource.h"
+i"Three20UI/TTSectionedDataSource.h"
+i"Three20UI/TTTableHeaderView.h"
+i"Three20UI/TTTableViewCell.h"
+i"Three20UI/TTTableItem.h"
+i"Three20UI/TTTableLinkedItem.h"
+i"Three20UI/TTTableTextItem.h"
+i"Three20UI/TTTableCaptionItem.h"
+i"Three20UI/TTTableRightCaptionItem.h"
+i"Three20UI/TTTableSubtextItem.h"
+i"Three20UI/TTTableSubtitleItem.h"
+i"Three20UI/TTTableMessageItem.h"
+i"Three20UI/TTTableLongTextItem.h"
+i"Three20UI/TTTableGrayTextItem.h"
+i"Three20UI/TTTableSummaryItem.h"
+i"Three20UI/TTTableLink.h"
+i"Three20UI/TTTableButton.h"
+i"Three20UI/TTTableMoreButton.h"
+i"Three20UI/TTTableImageItem.h"
+i"Three20UI/TTTableRightImageItem.h"
+i"Three20UI/TTTableActivityItem.h"
+i"Three20UI/TTTableStyledTextItem.h"
+i"Three20UI/TTTableControlItem.h"
+i"Three20UI/TTTableViewItem.h"
+i"Three20UI/TTTableLinkedItemCell.h"
+i"Three20UI/TTTableTextItemCell.h"
+i"Three20UI/TTTableCaptionItemCell.h"
+i"Three20UI/TTTableSubtextItemCell.h"
+i"Three20UI/TTTableRightCaptionItemCell.h"
+i"Three20UI/TTTableSubtitleItemCell.h"
+i"Three20UI/TTTableMessageItemCell.h"
+i"Three20UI/TTTableMoreButtonCell.h"
+i"Three20UI/TTTableImageItemCell.h"
+i"Three20UI/TTStyledTextTableItemCell.h"
+i"Three20UI/TTStyledTextTableCell.h"
+i"Three20UI/TTTableActivityItemCell.h"
+i"Three20UI/TTTableControlCell.h"
+i"Three20UI/TTTableFlushViewCell.h"
+i"Three20UI/TTErrorView.h"
+i"Three20UI/TTPhotoVersion.h"
+i"Three20UI/TTPhotoSource.h"
+i"Three20UI/TTPhoto.h"
+i"Three20UI/TTPhotoViewController.h"
+i"Three20UI/TTPhotoView.h"
+i"Three20UI/TTThumbsViewController.h"
+i"Three20UI/TTThumbsViewControllerDelegate.h"
+i"Three20UI/TTThumbsDataSource.h"
+i"Three20UI/TTThumbsTableViewCell.h"
+i"Three20UI/TTThumbsTableViewCellDelegate.h"
+i"Three20UI/TTThumbView.h"
+i"Three20UI/TTRecursiveProgress.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/UINSObjectAdditions.h
+c000000004D304825000000000000039B
+t1295009829
+s923
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/UINSStringAdditions.h
+c000000004D3048250000000000000375
+t1295009829
+s885
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/UINavigationControllerAdditions.h
+c000000004D30482500000000000002C4
+t1295009829
+s708
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/UITabBarControllerAdditions.h
+c000000004D30482500000000000002E4
+t1295009829
+s740
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/UITableViewAdditions.h
+c000000004D3048250000000000000569
+t1295009829
+s1385
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/UIToolbarAdditions.h
+c000000004D3048250000000000000334
+t1295009829
+s820
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/UIViewAdditions.h
+c000000004D3048250000000000001101
+t1295009829
+s4353
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UI/UIWebViewAdditions.h
+c000000004D3048250000000000000368
+t1295009829
+s872
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UICommon/TTBaseViewController.h
+c000000004D30481E0000000000000A15
+t1295009822
+s2581
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UICommon/TTGlobalUICommon.h
+c000000004D30481E000000000000150B
+t1295009822
+s5387
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UICommon/Three20UICommon+Additions.h
+c000000004D30481E00000000000002F2
+t1295009822
+s754
+i"Three20UICommon/Three20UICommon.h"
+i"Three20UICommon/UIViewControllerAdditions.h"
+i"Three20UICommon/UIWindowAdditions.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UICommon/Three20UICommon.h
+c000000004D30481E00000000000002CE
+t1295009822
+s718
+i"Three20UICommon/TTGlobalUICommon.h"
+i"Three20UICommon/TTBaseViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UICommon/UIViewControllerAdditions.h
+c000000004D30481E0000000000001524
+t1295009822
+s5412
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UICommon/UIWindowAdditions.h
+c000000004D30481E00000000000003D7
+t1295009822
+s983
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTBaseNavigationController.h
+c000000004D304820000000000000050F
+t1295009824
+s1295
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTBaseNavigator.h
+c000000004D3048200000000000001B38
+t1295009824
+s6968
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"Three20UINavigator/TTNavigatorPersistenceMode.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTGlobalNavigatorMetrics.h
+c000000004D30482000000000000006A1
+t1295009824
+s1697
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTNavigationMode.h
+c000000004D30482000000000000003E5
+t1295009824
+s997
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTNavigatorDelegate.h
+c000000004D3048200000000000000657
+t1295009824
+s1623
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTNavigatorPersistenceMode.h
+c000000004D3048200000000000000348
+t1295009824
+s840
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTNavigatorViewController.h
+c000000004D304820000000000000036A
+t1295009824
+s874
+i"Three20UICommon/TTBaseViewController.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTURLAction.h
+c000000004D3048200000000000000A90
+t1295009824
+s2704
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTURLGeneratorPattern.h
+c000000004D3048200000000000000379
+t1295009824
+s889
+i"Three20UINavigator/TTURLPattern.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTURLMap.h
+c000000004D304820000000000000161C
+t1295009824
+s5660
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"Three20UINavigator/TTNavigationMode.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTURLNavigatorPattern.h
+c000000004D30482000000000000006E0
+t1295009824
+s1760
+i"Three20UINavigator/TTURLPattern.h"
+i"Three20UINavigator/TTNavigationMode.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTURLObject.h
+c000000004D3048200000000000000497
+t1295009824
+s1175
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/TTURLPattern.h
+c000000004D3048200000000000000511
+t1295009824
+s1297
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/Three20UINavigator+Additions.h
+c000000004D30482000000000000002D0
+t1295009824
+s720
+i"Three20UINavigator/Three20UINavigator.h"
+i"Three20UINavigator/UIViewController+TTNavigator.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/Three20UINavigator.h
+c000000004D304820000000000000054C
+t1295009824
+s1356
+i"Three20UINavigator/TTGlobalNavigatorMetrics.h"
+i"Three20UINavigator/TTURLObject.h"
+i"Three20UINavigator/TTNavigatorViewController.h"
+i"Three20UINavigator/TTBaseNavigationController.h"
+i"Three20UINavigator/TTNavigatorPersistenceMode.h"
+i"Three20UINavigator/TTBaseNavigator.h"
+i"Three20UINavigator/TTNavigatorDelegate.h"
+i"Three20UINavigator/TTURLAction.h"
+i"Three20UINavigator/TTURLMap.h"
+i"Three20UINavigator/TTNavigationMode.h"
+i"Three20UINavigator/TTURLPattern.h"
+i"Three20UINavigator/TTURLGeneratorPattern.h"
+i"Three20UINavigator/TTURLNavigatorPattern.h"
+
+N/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/three20/Three20UINavigator/UIViewController+TTNavigator.h
+c000000004D30482000000000000008CB
+t1295009824
+s2251
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch.gch
+t1294678906
+s16338928
+
+N/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-cucfouqlsgpfywdpulifqctexeoz/Three20PhotoGallery_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-dukwsghanqojweepxwdnizcmzzgh/Three20PhotoGallery_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-egacfsjwpratlncreleydmcfmgyc/Three20PhotoGallery_Prefix.pch.gch
+t1294585223
+s16326640
+
+N/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-fopmbexkdbatkhcczjizrahvumtz/Three20PhotoGallery_Prefix.pch.gch
+t1294584908
+s16326640
+
+N/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-gebdjxbqppogeqdmvreijasqqmzg/Three20PhotoGallery_Prefix.pch.gch
+t1294585762
+s16326640
+
+N/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-gpjuxfglvlqxbhguyjmhijxdgyss/Three20PhotoGallery_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-hhwbwogwbzujrbgkiwpbepvdndrs/Three20PhotoGallery_Prefix.pch.gch
+t1294579873
+s16326640
+
+NThree20PhotoGallery-Info.plist
+c000000004D2B4034000000000000038D
+t1294680116
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316779923#316779923#0(0"0(0#1#0"9017647840#0"0#
+
+CCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/AlbumController.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316779735.106273
+e316779735.576134
+r1
+xCompileC
+xbuild/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/AlbumController.o
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m: In function '-[AlbumController viewDidLoad]':
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m:33: warning: 'AlbumController' may not respond to '-createPhotos'
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m:33: warning: (Messages without a matching method signature
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m:33: warning: will be assumed to return 'id' and accept
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m:33: warning: '...' as arguments.)
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m: In function '-[AlbumController createPhotos]':
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m:44: warning: 'AlbumController' may not respond to '-parseXMLFileAtURL:'
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m: In function '-[AlbumController parseXMLFileAtURL:]':
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m:90: warning: class 'AlbumController' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@104"Compile /Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m316779735#316779735#0(1399"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m: In function '-[AlbumController viewDidLoad]':/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m:33: warning: 'AlbumController' may not respond to '-createPhotos'/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m:33: warning: (Messages without a matching method signature/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m:33: warning: will be assumed to return 'id' and accept/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m:33: warning: '...' as arguments.)/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m: In function '-[AlbumController createPhotos]':/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m:44: warning: 'AlbumController' may not respond to '-parseXMLFileAtURL:'/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m: In function '-[AlbumController parseXMLFileAtURL:]':/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m:90: warning: class 'AlbumController' does not implement the 'NSXMLParserDelegate' protocol4(22@52"'AlbumController' may not respond to '-createPhotos'316779735#144#163#0(6@96"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m316724998#33#0#33#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)316779735#307#156#0(6@96"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m316724998#33#0#33#0#0"0(22@58"'AlbumController' may not respond to '-parseXMLFileAtURL:'316779735#891#169#0(6@96"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m316724998#44#0#44#0#26"'*' may not respond to '*'0(22@77"Class 'AlbumController' does not implement the 'NSXMLParserDelegate' protocol316779735#1211#188#0(6@96"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m316724998#90#0#90#0#45"class '*' does not implement the '*' protocol0(0#0#96"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m9080286048#2611"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../facebook-three20-b253114/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -include /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/AlbumController.m" -o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/AlbumController.o"0#
+
+CCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/FirstViewController.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316779782.026020
+e316779782.276087
+r1
+xCompileC
+xbuild/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/FirstViewController.o
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/FirstViewController.m:81: warning: '@end' missing in implementation context
+lSLF07#2@108"Compile /Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/FirstViewController.m316779782#316779782#0(155"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/FirstViewController.m:81: warning: '@end' missing in implementation context1(22@40"'@end' missing in implementation context316779782#0#155#0(6@100"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/FirstViewController.m316719898#81#0#81#0#40"'@end' missing in implementation context0(0#0#100"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/FirstViewController.m9078061408#2619"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../facebook-three20-b253114/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -include /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/FirstViewController.m" -o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/FirstViewController.o"0#
+
+CCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/Photo.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Photo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316779734.854847
+e316779735.199645
+r1
+xCompileC
+xbuild/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/Photo.o
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Photo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Photo.m316779734#316779735#0(0"0(0#0#86"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Photo.m9087753312#2591"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../facebook-three20-b253114/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -include /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Photo.m" -o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/Photo.o"0#
+
+CCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/PhotoSource.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/PhotoSource.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316779734.173376
+e316779735.106110
+r1
+xCompileC
+xbuild/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/PhotoSource.o
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/PhotoSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/PhotoSource.m316779734#316779735#0(0"0(0#0#92"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/PhotoSource.m9083033376#2603"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../facebook-three20-b253114/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -include /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/PhotoSource.m" -o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/PhotoSource.o"0#
+
+CCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/SecondViewController.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/SecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316779781.673900
+e316779782.025919
+r1
+xCompileC
+xbuild/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/SecondViewController.o
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/SecondViewController.m316779781#316779782#0(0"0(0#0#101"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/SecondViewController.m9085618592#2621"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../facebook-three20-b253114/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -include /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/SecondViewController.m" -o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/SecondViewController.o"0#
+
+CCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/TabBarController.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316295114.573707
+e316295114.827244
+r1
+xCompileC
+xbuild/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/TabBarController.o
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m: In function '-[TabBarController viewDidLoad]':
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m:14: warning: 'TabBarController' may not respond to '-setTabURLs:'
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m:14: warning: (Messages without a matching method signature
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m:14: warning: will be assumed to return 'id' and accept
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m:14: warning: '...' as arguments.)
+lSLF07#2@105"Compile /Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m316295114#316295114#0(752"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m: In function '-[TabBarController viewDidLoad]':/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m:14: warning: 'TabBarController' may not respond to '-setTabURLs:'/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m:14: warning: (Messages without a matching method signature/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m:14: warning: will be assumed to return 'id' and accept/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m:14: warning: '...' as arguments.)2(22@52"'TabBarController' may not respond to '-setTabURLs:'316295114#146#164#0(6@97"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m310840014#14#0#14#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)316295114#310#157#0(6@97"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m310840014#14#0#14#0#0"0(0#0#97"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m8668027040#2613"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../facebook-three20-b253114/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -include /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/TabBarController.m" -o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/TabBarController.o"0#
+
+CCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/ThirdViewController.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316779735.576464
+e316779735.653446
+r1
+xCompileC
+xbuild/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/ThirdViewController.o
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.m316779735#316779735#0(0"0(0#0#100"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.m9088589568#2619"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../facebook-three20-b253114/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -include /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.m" -o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/ThirdViewController.o"0#
+
+CCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/Three20PhotoGalleryAppDelegate.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316779923.756748
+e316779923.951339
+r1
+xCompileC
+xbuild/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/Three20PhotoGalleryAppDelegate.o
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m: In function '-[Three20PhotoGalleryAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:31: warning: passing argument 1 of 'setTitle:' from incompatible pointer type
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m: At top level:
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:113: warning: property 'managedObjectContext' requires method '-managedObjectContext' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:113: warning: property 'managedObjectModel' requires method '-managedObjectModel' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:113: warning: property 'persistentStoreCoordinator' requires method '-persistentStoreCoordinator' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:113: warning: incomplete implementation of class 'Three20PhotoGalleryAppDelegate'
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:113: warning: method definition for '-saveContext' not found
+o/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:113: warning: method definition for '-applicationDocumentsDirectory' not found
+lSLF07#2@119"Compile /Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m316779923#316779923#0(1913"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m: In function '-[Three20PhotoGalleryAppDelegate application:didFinishLaunchingWithOptions:]':/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:31: warning: passing argument 1 of 'setTitle:' from incompatible pointer type/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m: At top level:/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:113: warning: property 'managedObjectContext' requires method '-managedObjectContext' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:113: warning: property 'managedObjectModel' requires method '-managedObjectModel' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:113: warning: property 'persistentStoreCoordinator' requires method '-persistentStoreCoordinator' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:113: warning: incomplete implementation of class 'Three20PhotoGalleryAppDelegate'/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:113: warning: method definition for '-saveContext' not found/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:113: warning: method definition for '-applicationDocumentsDirectory' not found8(22@64"Passing argument 1 of 'setTitle:' from incompatible pointer type316779923#205#190#0(6@111"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m316779917#31#0#31#0#56"passing argument * of '*' from incompatible pointer type0(23@13"At top level:316779923#395#127#0(6@111"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m316779917#0#0#0#0#0"0(22@148"Property 'managedObjectContext' requires method '-managedObjectContext' to be defined - use @synthesize, @dynamic or provide a method implementation316779923#522#275#0(6@111"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m316779917#113#0#113#0#0"0(22@144"Property 'managedObjectModel' requires method '-managedObjectModel' to be defined - use @synthesize, @dynamic or provide a method implementation316779923#797#271#0(6@111"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m316779917#113#0#113#0#0"0(22@160"Property 'persistentStoreCoordinator' requires method '-persistentStoreCoordinator' to be defined - use @synthesize, @dynamic or provide a method implementation316779923#1068#287#0(6@111"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m316779917#113#0#113#0#0"0(22@67"Incomplete implementation of class 'Three20PhotoGalleryAppDelegate'316779923#1355#194#0(6@111"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m316779917#113#0#113#0#38"incomplete implementation of class '*'0(22@46"Method definition for '-saveContext' not found316779923#1549#173#0(6@111"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m316779917#113#0#113#0#35"method definition for '*' not found0(22@64"Method definition for '-applicationDocumentsDirectory' not found316779923#1722#191#0(6@111"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m316779917#113#0#113#0#35"method definition for '*' not found0(0#0#111"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m8919733248#2641"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../facebook-three20-b253114/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -include /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m" -o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/Three20PhotoGalleryAppDelegate.o"0#
+
+CCompileC build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/main.o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316371706.532518
+e316371706.751281
+r1
+xCompileC
+xbuild/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/main.o
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/main.m316371706#316371706#0(0"0(0#0#77"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/main.m8647430016#2581"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../facebook-three20-b253114/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -include /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/main.m" -o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.xib"
+s316779733.561777
+e316779734.171696
+r1
+xCompileXIB
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.xib
+lSLF07#2@42"CompileXIB Classes/ThirdViewController.xib316779733#316779734#0(0"0(0#0#102"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.xib9081500832#710"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/ThirdViewController.nib" "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/ThirdViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/MainView.xib"
+s316291589.285722
+e316291589.740995
+r1
+xCompileXIB
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib316291589#316291589#0(0"0(0#0#83"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/MainView.xib8672239648#680"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/MainView.nib" "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/MainView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/MainWindow.xib"
+s316372917.222957
+e316372917.674324
+r1
+xCompileXIB
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316372917#316372917#0(0"0(0#0#85"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/MainWindow.xib8669710208#684"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/MainWindow.nib" "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20.bundle ../facebook-three20-b253114/src/Three20.bundle
+s316371705.207070
+e316371705.245600
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Three20PhotoGallery.app/Three20.bundle
+x../facebook-three20-b253114/src/Three20.bundle
+lSLF07#2@51"Copy ../facebook-three20-b253114/src/Three20.bundle316371705#316371705#0(0"0(0#0#117"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/../facebook-three20-b253114/src/Three20.bundle32088594027118640#618"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/../facebook-three20-b253114/src/Three20.bundle" "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app"0#
+
+CDataModelVersionCompile "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery.momd" "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery.xcdatamodeld"
+s316371706.531599
+e316371706.749435
+r1
+xDataModelVersionCompile
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery.momd
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery.xcdatamodeld
+lSLF07#2@133"DataModelVersionCompile build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery.momd Three20PhotoGallery.xcdatamodeld316371706#316371706#0(0"0(0#0#103"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery.xcdatamodeld8649056608#524"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery.xcdatamodeld" "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery.momd"0#
+
+CGenerateDSYMFile "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app.dSYM" "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery"
+s316779924.311074
+e316779924.742405
+r1
+xGenerateDSYMFile
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app.dSYM
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/Three20PhotoGallery.app.dSYM build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery316779924#316779924#0(0"0(0#0#142"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery8999656128#521"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery" -o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app.dSYM"0#
+
+CLd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery" normal i386
+s316779923.951442
+e316779924.310955
+r1
+xLd
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery
+xnormal
+xi386
+lSLF07#2@147"Link /Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery316779923#316779924#0(0"0(0#0#0"9003349952#2121"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" -filelist "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Objects-normal/i386/Three20PhotoGallery.LinkFileList" -mmacosx-version-min=10.6 -ObjC -all_load -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework QuartzCore "/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20.a" "/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a" "/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20UICommon.a" "/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20UI.a" "/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20Network.a" "/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20Core.a" "/Users/doonot/Documents/Development/XCODE Projects/facebook-three20-b253114/Build/Products/Debug-iphonesimulator/libThree20Style.a" -o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Three20PhotoGallery"0#
+
+CProcessInfoPlistFile "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Info.plist" Three20PhotoGallery-Info.plist
+s316372917.213690
+e316372917.222770
+r1
+xProcessInfoPlistFile
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Info.plist
+xThree20PhotoGallery-Info.plist
+lSLF07#2@38"Process Three20PhotoGallery-Info.plist316372917#316372917#0(0"0(0#0#101"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery-Info.plist8670549984#617"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Three20PhotoGallery-Info.plist -genpkginfo "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app/Info.plist"0#
+
+CProcessPCH /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch.gch Three20PhotoGallery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316371705.627073
+e316371706.531128
+r1
+xProcessPCH
+x/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch.gch
+xThree20PhotoGallery_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Three20PhotoGallery_Prefix.pch316371705#316371706#0(0"0(0#0#101"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery_Prefix.pch8652737152#2427"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../facebook-three20-b253114/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery_Prefix.pch" -o /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-aqskluoimrlhtjhbrdjpzbpuwbgc/Three20PhotoGallery_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-cucfouqlsgpfywdpulifqctexeoz/Three20PhotoGallery_Prefix.pch.gch Three20PhotoGallery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-dukwsghanqojweepxwdnizcmzzgh/Three20PhotoGallery_Prefix.pch.gch Three20PhotoGallery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-egacfsjwpratlncreleydmcfmgyc/Three20PhotoGallery_Prefix.pch.gch Three20PhotoGallery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316278022.887716
+e316278023.731635
+r1
+xProcessPCH
+x/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-egacfsjwpratlncreleydmcfmgyc/Three20PhotoGallery_Prefix.pch.gch
+xThree20PhotoGallery_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Three20PhotoGallery_Prefix.pch316278022#316278023#0(0"0(0#0#101"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery_Prefix.pch8673174240#2439"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../facebook-three20-b253114/src/Three20/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery_Prefix.pch" -o /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-egacfsjwpratlncreleydmcfmgyc/Three20PhotoGallery_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-fopmbexkdbatkhcczjizrahvumtz/Three20PhotoGallery_Prefix.pch.gch Three20PhotoGallery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316277707.641662
+e316277708.622295
+r1
+xProcessPCH
+x/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-fopmbexkdbatkhcczjizrahvumtz/Three20PhotoGallery_Prefix.pch.gch
+xThree20PhotoGallery_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Three20PhotoGallery_Prefix.pch316277707#316277708#0(0"0(0#0#101"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery_Prefix.pch8605940416#2410"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../three20/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery_Prefix.pch" -o /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-fopmbexkdbatkhcczjizrahvumtz/Three20PhotoGallery_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-gebdjxbqppogeqdmvreijasqqmzg/Three20PhotoGallery_Prefix.pch.gch Three20PhotoGallery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316278561.681577
+e316278562.705192
+r1
+xProcessPCH
+x/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-gebdjxbqppogeqdmvreijasqqmzg/Three20PhotoGallery_Prefix.pch.gch
+xThree20PhotoGallery_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Three20PhotoGallery_Prefix.pch316278561#316278562#0(0"0(0#0#101"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery_Prefix.pch8616434240#2427"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -I../facebook-three20-b253114/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery_Prefix.pch" -o /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-gebdjxbqppogeqdmvreijasqqmzg/Three20PhotoGallery_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-gpjuxfglvlqxbhguyjmhijxdgyss/Three20PhotoGallery_Prefix.pch.gch Three20PhotoGallery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-hhwbwogwbzujrbgkiwpbepvdndrs/Three20PhotoGallery_Prefix.pch.gch Three20PhotoGallery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316272673.054163
+e316272674.023562
+r1
+xProcessPCH
+x/var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-hhwbwogwbzujrbgkiwpbepvdndrs/Three20PhotoGallery_Prefix.pch.gch
+xThree20PhotoGallery_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile Three20PhotoGallery_Prefix.pch316272673#316272674#0(0"0(0#0#101"/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery_Prefix.pch8651885600#2407"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-generated-files.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-own-target-headers.hmap" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-all-target-headers.hmap" -iquote "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/Three20PhotoGallery-project-headers.hmap" "-F/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/include" -Ithree20/Build/Products/three20 "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources/i386" "-I/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Three20PhotoGallery.build/Debug-iphonesimulator/Three20PhotoGallery.build/DerivedSources" -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Three20PhotoGallery_Prefix.pch" -o /var/folders/bP/bPt9XjD0HXiPV8pHcvtkXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20PhotoGallery_Prefix-hhwbwogwbzujrbgkiwpbepvdndrs/Three20PhotoGallery_Prefix.pch.gch0#
+
+CTouch "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app"
+s316779924.742524
+e316779924.746169
+r1
+xTouch
+x/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app
+lSLF07#2@128"Touch /Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app316779924#316779924#0(0"0(0#0#0"9091207328#358"    cd "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/build/Debug-iphonesimulator/Three20PhotoGallery.app"0#
+

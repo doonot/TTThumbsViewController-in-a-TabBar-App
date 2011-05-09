@@ -1,0 +1,9 @@
+/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m: In function '-[Three20PhotoGalleryAppDelegate application:didFinishLaunchingWithOptions:]':
+/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:98: warning: control reaches end of non-void function
+/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m: At top level:
+/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:111: warning: property 'managedObjectContext' requires method '-managedObjectContext' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:111: warning: property 'managedObjectModel' requires method '-managedObjectModel' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:111: warning: property 'persistentStoreCoordinator' requires method '-persistentStoreCoordinator' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:111: warning: incomplete implementation of class 'Three20PhotoGalleryAppDelegate'
+/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:111: warning: method definition for '-saveContext' not found
+/Users/doonot/Documents/Development/XCODE Projects/Three20PhotoGallery/Classes/Three20PhotoGalleryAppDelegate.m:111: warning: method definition for '-applicationDocumentsDirectory' not found
